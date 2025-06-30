@@ -1,1 +1,2 @@
 # cs320project
+To ensure my code is functional and secure, I rely on unit testing to verify expected behavior and catch edge cases. I follow good practices like input validation and exception handling to avoid common errors. I interpret user needs by closely reading the requirements and translating them into clearly defined features in the code. Testing helps confirm that these features work as intended. When designing software, I focus on simplicity, modularity, and testability. I structure my code to be easy to maintain and ensure each part serves a clear purpose.
